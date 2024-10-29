@@ -1,5 +1,5 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; I'm Victor, a Junior Developer &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 
-- 🔭 I’m currently working on [Stock Management Web App for my current job](https://github.com/caicedov/stock-mgmt-rcc)
+- 🔭 I’m currently working on [an inventory system for multi-stores](https://github.com/caicedov/multi-store-inventory-management)
 - 🌱 I’m currently learning Typescript <br/> 
 ## Skills 
 <table align="center">
